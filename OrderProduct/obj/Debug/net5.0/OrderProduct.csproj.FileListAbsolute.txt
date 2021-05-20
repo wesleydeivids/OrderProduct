@@ -1,0 +1,16 @@
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.exe
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.deps.json
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.runtimeconfig.json
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.runtimeconfig.dev.json
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.dll
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\ref\OrderProduct.dll
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\bin\Debug\net5.0\OrderProduct.pdb
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.csprojAssemblyReference.cache
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.AssemblyInfoInputs.cache
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.AssemblyInfo.cs
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.dll
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\ref\OrderProduct.dll
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.pdb
+C:\Users\Wesley Deivid\source\repos\OrderProduct\OrderProduct\obj\Debug\net5.0\OrderProduct.genruntimeconfig.cache
